@@ -61,7 +61,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/php/339933" height="60" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/laravel/339933" height="60" alt="laravel logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
   <img width="20" />
