@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center"><Languages></Languages ></h2>
+<h2 data-importer="text" align="center">Languages</h2>
 
 ###
 
@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center"><Frameworks></Frameworks></h2>
+<h2 data-importer="text" align="center">Frameworks</h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center"><Databases></Databases></h2>
+<h2 data-importer="text" align="center">Databases</h2>
 
 ###
 
@@ -111,7 +111,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center"><Tools></Tools></h2>
+<h2 data-importer="text" align="center">Tools</h2>
 
 ###
 
